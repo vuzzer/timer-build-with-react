@@ -1,3 +1,5 @@
+[![Azure Static Web Apps CI/CD](https://github.com/vuzzer/timer-build-with-react/actions/workflows/azure-static-web-apps-salmon-hill-0c0bb780f.yml/badge.svg?branch=main)](https://github.com/vuzzer/timer-build-with-react/actions/workflows/azure-static-web-apps-salmon-hill-0c0bb780f.yml)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
