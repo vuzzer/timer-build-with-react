@@ -61,7 +61,7 @@ function App() {
           </button>
         </div>
         <div className="absolute bottom-0 w-full text-center text-white p-2">
-          <p>Made with ❤️ by <a href="https://github.com/vuzzer" target="blank">Bienvenu Kouassi</a>  &copy; {new Date().getFullYear()}</p>
+          <p>Made with ❤️ by <a href="https://github.com/vuzzer" target="blank" className="text-blue-300">Bienvenu Kouassi</a>  &copy; {new Date().getFullYear()}</p>
         </div>
       </div>
   );
