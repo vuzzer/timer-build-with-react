@@ -1,4 +1,4 @@
-[![Azure Static Web Apps CI/CD](https://github.com/vuzzer/timer-build-with-react/actions/workflows/azure-static-web-apps-salmon-hill-0c0bb780f.yml/badge.svg?branch=main)](https://github.com/vuzzer/timer-build-with-react/actions/workflows/azure-static-web-apps-salmon-hill-0c0bb780f.yml)
+[![Azure Static Web Apps CI/CD](https://github.com/vuzzer/timer-build-with-react/actions/workflows/azure-static-web-apps-green-stone-00ddcbf10.yml/badge.svg)](https://github.com/vuzzer/timer-build-with-react/actions/workflows/azure-static-web-apps-green-stone-00ddcbf10.yml)
 
 # React + TypeScript + Vite
 
